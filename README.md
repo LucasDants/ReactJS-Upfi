@@ -1,4 +1,4 @@
-<h1 align="center">:microphone: Upfi :headphones:</h1>
+<h1 align="center">:camera: Upfi :camera:</h1>
 <p align="center">Upfi!</p>
 
 <p align="center">
